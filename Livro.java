@@ -12,7 +12,7 @@ public class Livro {
         this.editora = editora;
     }
 
-    // Métodos de acesso (getters e setters)
+    //(get e set)
     public String getTitulo() {
         return titulo;
     }
